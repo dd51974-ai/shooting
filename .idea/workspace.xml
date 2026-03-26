@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="anyway, 1st commit">
-      <change afterPath="$PROJECT_DIR$/step1_window.py" afterDir="false" />
+    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="Create screen tab of new file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774450539003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create screen tab of new file">
+      <option name="closed" value="true" />
+      <created>1774451156240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774451156240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="anyway, 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="anyway, 1st commit" />
+    <MESSAGE value="Create screen tab of new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create screen tab of new file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
