@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py">
+    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step2_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/step2_bar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775659678905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py">
+      <option name="closed" value="true" />
+      <created>1775711636153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775711636153</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +155,7 @@
     <MESSAGE value="create bar.py" />
     <MESSAGE value="wrote left and right keys step1_window.py and step2_bar.py" />
     <MESSAGE value="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py" />
+    <MESSAGE value="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py" />
   </component>
 </project>
