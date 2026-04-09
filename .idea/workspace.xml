@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="wrote left and right keys step1_window.py and step2_bar.py">
+    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="add &quot;def&quot; of step2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step2_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/step2_bar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ai/develop/shooting/shooting",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="shooting" />
@@ -120,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1775573856996</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py">
+      <option name="closed" value="true" />
+      <created>1775659678905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775659678905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py">
+      <option name="closed" value="true" />
+      <created>1775711636153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775711636153</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add &quot;def&quot; of step2">
+      <option name="closed" value="true" />
+      <created>1775712438562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775712438562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +163,9 @@
     <MESSAGE value="Create screen tab of new file" />
     <MESSAGE value="create bar.py" />
     <MESSAGE value="wrote left and right keys step1_window.py and step2_bar.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote left and right keys step1_window.py and step2_bar.py" />
+    <MESSAGE value="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py" />
+    <MESSAGE value="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py" />
+    <MESSAGE value="add &quot;def&quot; of step2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;def&quot; of step2" />
   </component>
 </project>
