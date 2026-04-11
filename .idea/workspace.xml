@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="add &quot;def&quot; of step2">
+    <list default="true" id="47ea3554-5dbf-4757-99bb-ce833e955dcf" name="Changes" comment="anyway, commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step2_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/step2_bar.py" afterDir="false" />
     </list>
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775712438562</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="anyway, commit">
+      <option name="closed" value="true" />
+      <created>1775744784243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775744784243</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +174,7 @@
     <MESSAGE value="wrote def of step1_window.py. and then, import def of step2_bar.py from step1_window.py" />
     <MESSAGE value="Rewrite to add for &quot;return screen&quot; on 7 line of step1_window.py, and rewrite &quot;x, y&quot; for Bar scale between 6 tp 7 line, and add &quot;win.fill((0, 0, 0))&quot; on 29 line of step2_bar.py" />
     <MESSAGE value="add &quot;def&quot; of step2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;def&quot; of step2" />
+    <MESSAGE value="anyway, commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="anyway, commit" />
   </component>
 </project>
