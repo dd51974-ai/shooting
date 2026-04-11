@@ -1,4 +1,3 @@
-import pygame
 
 from step1_window import *
 def bar():
